@@ -1,4 +1,4 @@
-Eu tava entediado, e queria ver se eu sabia fazer um player de música. 
+Eu tava entediado, e queria ver se eu sabia fazer um player de música sem criar um executável
 
 Obviamente anos-luz de distância de um Spotify ou YT Music, mas tá aí.
 
